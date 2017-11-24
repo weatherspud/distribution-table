@@ -1,4 +1,4 @@
-# dist_table is a matrix with the values of the botton and top of the range in the 1st and 2nd columns
+# dist_table is a matrix with the values of the bottom and top of the range in the 1st and 2nd columns
 
 pdist_to_dist_table = function(pdist, tab_size_exp=2) {
   tab_size = 10^tab_size_exp
